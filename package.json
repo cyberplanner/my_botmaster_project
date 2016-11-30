@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cyberplanner/my_botmaster_project/issues"
   },
-  "homepage": "https://github.com/cyberplanner/my_botmaster_project#readme"
+  "homepage": "https://github.com/cyberplanner/my_botmaster_project#readme",
+  "dependencies": {
+    "botmaster": "^2.2.2"
+  }
 }
